@@ -1,4 +1,4 @@
-#TkinterCheckers
+# TkinterCheckers
 ## Intro
 TkinterCheckers est une interface en Tkinter pour jouer à un jeu de dames simplifié, développée dans le cadre d'un TP à l'EPSI en 3ème année. Dans cette version, les pions ne peuvent faire qu'une seule prise à la fois, et les dames ne peuvent se déplacer que d'un seul case.
 
